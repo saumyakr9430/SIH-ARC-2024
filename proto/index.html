@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ciphertext Algorithm Identifier</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Ciphertext Algorithm Identifier</h1>
+        <form id="ciphertext-form">
+            <label for="ciphertext">Enter Ciphertext:</label>
+            <textarea id="ciphertext" name="ciphertext" rows="6" placeholder="Paste your ciphertext here..." required></textarea>
+            <button type="submit">Identify Algorithm</button>
+        </form>
+        <div id="result">
+            <h2>Result</h2>
+            <p id="algorithm"></p>
+        </div>
+        <div id="error-message" class="hidden">
+            <p id="error-text"></p>
+        </div>
+        <div class="improvements">
+            <h2>Possible Improvements</h2>
+            <ul>
+                <li>Support for additional encryption algorithms.</li>
+                <li>Advanced error handling and validation.</li>
+                <li>Enhanced user interface with real-time feedback.</li>
+                <li>Documentation and usage examples for users.</li>
+            </ul>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
