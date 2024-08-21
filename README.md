@@ -11,6 +11,11 @@ SIH- 2024 PROJECT
 **Theme** - Blockchain & Cybersecurity
 
 
+# Working Proto-type
+
+**WEBSITE**
+
+
 
 
 # ABOUT
@@ -36,15 +41,6 @@ Technologies Used: Machine learning for pattern recognition, cryptographic analy
 
 
 
-# LEARNING ( STUDY PURPOSE )
-The Algo file contains the differnet encryption algorithm to study analyse.
-
-The refrence file contains all the refernces link.
-
-# Working Proto-type
-
-WEBSITE 
-
 
 # Future Development and Improvements 
 
@@ -60,6 +56,15 @@ WEBSITE
 **User Interface Improvements:** Enhance the user interface for more intuitive interaction and detailed reporting.
 
 **Feedback Mechanism:** Implement a feedback system to continuously refine and update detection algorithms based on user input and emerging threats.
+
+
+
+
+
+# LEARNING ( STUDY PURPOSE )
+The Algo file contains the differnet encryption algorithm to study analyse.
+
+The refrence file contains all the refernces link.
 
 
 
