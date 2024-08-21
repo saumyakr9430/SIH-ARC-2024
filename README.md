@@ -61,10 +61,6 @@ Technologies Used: Machine learning for pattern recognition, cryptographic analy
 
 
 
-# LEARNING ( STUDY PURPOSE )
-The Algo file contains the differnet encryption algorithm to study analyse.
-
-The refrence file contains all the refernces link.
 
 
 
