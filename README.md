@@ -1,5 +1,18 @@
 # SIH-ARC-2024 PROTO-TYPE
 SIH- 2024 PROJECT
+
+**Topic**: Identification of algorithm from the given dataset using AI/ML Techniques
+
+**Problem Statement ID**– SIH1681
+
+**Organization** -National Technical Research Organisation (NTRO)
+
+
+**Theme** - Blockchain & Cybersecurity
+
+
+
+
 # ABOUT
 **Project Overview:**
 
