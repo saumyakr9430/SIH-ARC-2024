@@ -1,0 +1,24 @@
+﻿AES encrypted cipher text :    
+1.Zkv4NNK3UZKMLKFdjZcKPTJHKd2YZ0OkVHJzx7/s7E0=
+2.+WfQmdj1upBB7vLxjQIzCTV6M4zqISfIV7Xs7Ah23hA=
+
+
+
+
+
+
+BlowFish:
+1.Z8mD3vBZ7Ww=
+2.K+YVGG6tKqu/FYgJzw9jDA==
+
+
+
+
+Unknown algorithm:
+1.LwZuZwlUqkHqaA==
+
+
+
+
+Error in Hexa coding : 
+1.MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn
